@@ -284,7 +284,7 @@ another_layout = html.Div(children=[
             }
         )
     ], style={'margin': '20px', 'text-align': 'center', 'background-color': '#34495e', 'border-radius': '10px'}),
-], id = 'content')
+], id = 'content1')
 
 @app.callback(
     Output('content', 'children'),
