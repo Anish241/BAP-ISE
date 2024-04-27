@@ -1,0 +1,34 @@
+/* body background */
+body {
+    background: linear-gradient(to right, #141e30, #243b55);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+h1 {
+    color: #ffffff;
+}
+
+/* Section Headers */
+h2 {
+    color: #ffffff;
+    margin-top: 30px;
+}
+
+/* Data Table */
+.data-table {
+    margin-top: 20px;
+}
+
+/* Bar and Pie Charts */
+.graph-container {
+    margin-top: 20px;
+}
+
+/* Footer */
+.footer {
+    margin-top: 50px;
+    color: #ffffff;
+    text-align: center;
+}
